@@ -98,6 +98,18 @@ https://simonsingh.net/cryptography/cipher-challenge/the-ciphertexts/
 
 http://www.loyalty.org/%7Eschoen/rsa/
 
+#### Hacking Games Challenges & Various
+
+https://github.com/GeoSn0w/PAN-1-CrackMe
+
+https://github.com/GeoSn0w/PAN-2-CrackMe
+
+https://github.com/moloch--/RootTheBox
+
+https://github.com/jseidl/virtuaplant
+
+https://github.com/clymb3r/KdExploitMe
+
 
 
 The List is in is constantly updated, keep an eye on it;)
